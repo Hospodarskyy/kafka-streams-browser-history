@@ -27,4 +27,4 @@ python generator.py history.csv
 
 ## Results
 
-![Top 5 domains](screenshot.png)
+![Top 5 domains](result.png)
